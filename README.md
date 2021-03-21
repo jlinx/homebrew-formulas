@@ -1,5 +1,6 @@
-# Esantonja Formulas
+# home-brew formulas
 
+On this repos I'm adding custom homebrew formulas for mac.
 ## How do I install these formulae?
 
 `brew install esantonja/formulas/<formula>`
