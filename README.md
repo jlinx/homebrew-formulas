@@ -1,4 +1,4 @@
-# home-brew formulas
+# homebrew formulas
 
 On this repos I'm adding custom homebrew formulas for mac.
 ## How do I install these formulae?
