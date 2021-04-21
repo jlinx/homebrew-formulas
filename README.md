@@ -3,9 +3,9 @@
 On this repos I'm adding custom homebrew formulas for mac.
 ## How do I install these formulae?
 
-`brew install esantonja/formulas/<formula>`
+`brew install jlinx/formulas/<formula>`
 
-Or `brew tap esantonja/formulas` and then `brew install <formula>`.
+Or `brew tap jlinx/formulas` and then `brew install <formula>`.
 
 ## Documentation
 
